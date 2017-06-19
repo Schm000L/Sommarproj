@@ -30,6 +30,7 @@
     * Kulor (hastighet, skada mm)
     * Få att kulorna åker mot pekaren
     * Pickup-vapen? Få ett nytt vapen efter varje level?
+    * Skjuta i musriktning
   * Fiender (ny blueprint)
     * AI (finns inbyggt tror ja)
   * HP, ta skada, få HP (pickups?, life-steal?)
@@ -40,7 +41,7 @@
 
 * Ljud
   * Inspelning
-    * Hitta "grtis-ljud"
+    * Hitta "gratis-ljud"
     * Spela in egna ljud
     * Ta ljud som ingår i "Starter Pack"
   * Ljud till
