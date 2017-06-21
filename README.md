@@ -62,3 +62,14 @@
   
 * Publishing
   * Greenlight?
+  
+# How to
+* Ledge grabbing
+  * För att objekt ska kunna spåras och tas tag i:
+    * Collision Preset: Custom
+    * Collision Enabled: Collision Enabled
+    * Trace Responses: LedgeTrace: Block
+    * Object Responses: CircleTracer: Overlap
+    
+
+ 
