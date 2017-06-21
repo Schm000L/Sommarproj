@@ -31,6 +31,17 @@
     * Få att kulorna åker mot pekaren
     * Pickup-vapen? Få ett nytt vapen efter varje level?
     * Skjuta i musriktning
+   
+    * Pistol - P99 (https://en.wikipedia.org/wiki/Walther_P99)
+    * Shotgun - SPAS (https://en.wikipedia.org/wiki/Franchi_SPAS-12)
+    * Assault Rifle - SCAR (https://en.wikipedia.org/wiki/FN_SCAR)
+    * Crossbow - (https://en.wikipedia.org/wiki/Crossbow#/media/File:Horton_Hunter_Supreme_by_IvE.jpg)
+    * Granate Launcher - (https://en.wikipedia.org/wiki/Milkor_MGL)
+    * IMBA Melee - Eeeeehh..... katanahandtag+scimitar 
+
+    * Special (Granade TP)
+    
+    
   * Fiender (ny blueprint)
     * AI (finns inbyggt tror ja)
   * HP, ta skada, få HP (pickups?, life-steal?)
