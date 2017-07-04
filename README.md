@@ -25,7 +25,9 @@
 
 * Gameplay
   * Slide
-  * Ledge grabbing (Samsam)
+  * ~~Ledge grabbing (Samsam)~~
+    * Fixa bugg
+    * Enkelhopp om man släpper?
   * Vapen
     * ~~Vilka vapen?~~
     * Kulor (hastighet, skada mm)
